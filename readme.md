@@ -7,3 +7,6 @@
 
 #new techniques
 
+#check hwo to use git stash
+
+
